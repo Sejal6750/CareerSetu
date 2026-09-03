@@ -1,0 +1,355 @@
+🇮🇳 CareerSetu AI
+
+Personalized Career Intelligence Platform for Indian Students
+
+«“Your AI-powered career journey, built for India.”»
+
+CareerSetu AI is a modern, AI-powered career navigation platform designed for Indian college students and freshers.
+
+Instead of acting like a traditional job board, CareerSetu AI helps users understand which career path fits them, which opportunities match their profile, what skills they are missing, and what they should do next.
+
+---
+
+🚀 Why CareerSetu AI?
+
+Students often use multiple platforms for:
+
+- Jobs
+- Internships
+- Hackathons
+- Scholarships
+- Government opportunities
+- Career guidance
+- Learning resources
+- Resume building
+- Interview preparation
+
+The information is scattered, and students often don't know what opportunity is actually right for them.
+
+CareerSetu AI brings these experiences together into one personalized career ecosystem.
+
+---
+
+✨ Key Features
+
+🤖 AI Career Coach
+
+Ask career-related questions and receive personalized guidance based on your profile, skills and goals.
+
+🎯 Opportunity Matching
+
+Discover jobs, internships, hackathons, competitions, scholarships and other opportunities based on your profile.
+
+📊 AI Match Analysis
+
+Understand why an opportunity matches you through:
+
+- Skill match
+- Career-goal match
+- Education eligibility
+- Location preference
+- Experience
+
+🧠 Skill Gap Analysis
+
+Compare your current skills with the skills required for your target career.
+
+🗺️ Personalized Career Roadmap
+
+Get a step-by-step roadmap from your current position to your target career.
+
+📄 AI Resume Analyzer
+
+Analyze resume strength, ATS readiness, missing information and improvement areas.
+
+💻 Portfolio Analyzer
+
+Evaluate your portfolio, GitHub and LinkedIn presence and receive actionable suggestions.
+
+🎤 AI Interview Preparation
+
+Practice technical, HR and behavioral interviews with personalized feedback.
+
+📚 Personalized Learning Hub
+
+Discover resources based on your career goal and skill gaps.
+
+📋 Application Tracker
+
+Track applications through:
+
+"Saved → Applied → Assessment → Interview → Selected / Rejected"
+
+👨‍💻 AI Project Recommendations
+
+Get project ideas that help close your skill gaps and strengthen your portfolio.
+
+🧑‍🏫 Mentor Discovery
+
+Explore mentor profiles based on industry, role and skills.
+
+🇮🇳 India-Focused Experience
+
+Designed specifically around the career ecosystem of Indian students.
+
+Opportunity categories include:
+
+- Internships
+- Jobs
+- Hackathons
+- Scholarships
+- Government Exams
+- Research
+- Fellowships
+- Competitions
+- Apprenticeships
+- Mentorship
+
+---
+
+🎨 UI/UX Highlights
+
+The interface focuses on:
+
+- Clean and modern information architecture
+- AI-first UX
+- Personalized recommendations
+- Explainable AI
+- Indian-inspired visual identity
+- Responsive design
+- Accessibility
+- Meaningful data visualization
+- Clear empty states
+- Micro-interactions
+- Mobile-first considerations
+
+The visual language combines a modern technology aesthetic with subtle Indian design influences.
+
+---
+
+🧩 Main User Flow
+
+Splash Screen
+      ↓
+Product Introduction
+      ↓
+Sign In / Create Account
+      ↓
+Onboarding
+      ↓
+Academic Information
+      ↓
+Skills & Career Interests
+      ↓
+Opportunity Preferences
+      ↓
+Career Assessment
+      ↓
+Personalized Dashboard
+      ↓
+Career Discovery / Opportunities / AI Coach
+      ↓
+Skill Gap → Roadmap → Learning → Applications
+
+---
+
+📱 Main Screens
+
+- Splash Screen
+- Landing / Introduction
+- Authentication
+- Onboarding
+- Profile Setup
+- Home Dashboard
+- Career Discovery
+- Opportunity Discovery
+- Opportunity Details
+- AI Career Coach
+- Skill Gap Analysis
+- Career Roadmap
+- Application Tracker
+- Resume Analyzer
+- Portfolio Analyzer
+- Interview Preparation
+- Learning Hub
+- Mentor Discovery
+- Career Stories
+- Company Spotlight
+- Career Community
+- Notifications
+- Profile & Settings
+
+---
+
+🧠 UX Philosophy
+
+CareerSetu AI is built around one core question:
+
+«“What should I do next for my career?”»
+
+Instead of overwhelming users with hundreds of opportunities, the platform prioritizes:
+
+Understand → Match → Explain → Improve → Act
+
+For every recommendation, the user should understand:
+
+Why am I seeing this?
+
+What am I missing?
+
+What should I do next?
+
+---
+
+🔐 Personalization & Privacy
+
+CareerSetu AI does not assume a user's identity or academic information.
+
+New users start with an empty profile and provide their own:
+
+- Name
+- College
+- Degree
+- Branch
+- Graduation year
+- Skills
+- Career goals
+- Preferences
+
+Personalized recommendations are generated only after the user provides relevant information.
+
+---
+
+🛠️ Tech Stack
+
+Frontend
+
+- React
+- TypeScript / JavaScript
+- HTML5
+- CSS
+- Responsive UI
+
+Backend
+
+- Node.js
+- Express.js
+
+Database
+
+- PostgreSQL
+
+AI
+
+- AI-powered career recommendation
+- Skill-gap analysis
+- Resume analysis
+- Interview preparation
+- Personalized career guidance
+
+Design
+
+- Figma
+- Design System
+- Responsive UI/UX
+- Prototyping
+
+---
+
+📂 Project Structure
+
+CareerSetu-AI/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── layouts/
+│   ├── services/
+│   ├── hooks/
+│   ├── utils/
+│   ├── data/
+│   └── styles/
+│
+├── assets/
+├── README.md
+├── package.json
+└── .gitignore
+
+---
+
+🎯 Target Users
+
+CareerSetu AI is primarily designed for:
+
+- College students
+- Engineering students
+- Freshers
+- Internship seekers
+- Placement aspirants
+- Career explorers
+- Students preparing for competitive opportunities
+
+---
+
+🌱 Future Scope
+
+Future versions can include:
+
+- Real-time opportunity aggregation
+- Verified company profiles
+- College placement integration
+- Advanced AI career assessments
+- Personalized job application assistance
+- Mentor booking
+- Skill certifications
+- Interview scheduling
+- Career analytics
+- Multilingual support for Indian languages
+
+---
+
+📸 UI/UX Preview
+
+«Add screenshots of the most important screens here.»
+
+Recommended screenshots:
+
+1. Home Dashboard
+2. AI Career Coach
+3. Opportunity Matching
+4. Skill Gap Analysis
+5. Career Roadmap
+6. Resume Analyzer
+7. Application Tracker
+8. Mobile UI
+
+🎨 Design Prototype
+
+Figma Prototype:
+https://www.figma.com/site/Me4FhxHbaIghbAsUaLR2ss/careerSetu?node-id=0-1&t=RX4ysREqSSusL7xY-1
+
+---
+
+👩‍💻 Designed & Developed By
+
+[sejal kumari]
+
+UI/UX Designer • Frontend Developer
+
+Interested in:
+
+- Product Design
+- AI-powered UX
+- Frontend Development
+- Human-Centered Design
+
+---
+
+📌 Project Status
+
+Status: 🚧 In Development
+
+CareerSetu AI is currently under development. The UI/UX, user flows, and core product experience are being refined before the first public release.
+
+Live Demo: Coming Soon
